@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The subjects desire to see our gracious King Charles the Second, his safe arrival.</title>
+            <author>M. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74192</idno>
+            <idno type="STC">Wing D65</idno>
+            <idno type="STC">Thomason 669.f.25[24]</idno>
+            <idno type="STC">ESTC R211922</idno>
+            <idno type="EEBO-CITATION">99870590</idno>
+            <idno type="PROQUEST">99870590</idno>
+            <idno type="VID">163829</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74192)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163829)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f25[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The subjects desire to see our gracious King Charles the Second, his safe arrival.</title>
+                  <author>M. D.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H.B. at the Gun in Ivy-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: M.D.</note>
+                  <note>Verse - "Return Great King. For Loyalty implores".</note>
+                  <note>Annotation on Thomason copy: "May 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry --  Early works to 1800.</term>
+               <term>England and Wales. --  Sovereign (1660-1685 : Charles II) --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:163829:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>THE SUBJECTS DESIRE To ſee our Gracious King Charles THE SECOND, HIS SAFE ARRIVALL.</head>
+            <l>REturn <hi>Great King.</hi> For Loyalty implores</l>
+            <l>Our Soveraigne, to leave the <hi>Belgick ſhores.</hi>
+            </l>
+            <l>And bleſs the <hi>Brittiſh ſoyle,</hi> which longs to greet</l>
+            <l>Her Second <hi>Charles,</hi> and kiſs his Princely Feet.</l>
+            <l>Let not the Ocean, or the more profound</l>
+            <l>Abiſſe of guilt, wherein our Iſland's drown'd,</l>
+            <l>Deprive us longer of that Influence,</l>
+            <l>Thy radiant Sun beams of benevolence,</l>
+            <l>But croſſe that envious Sea, that ſeparates,</l>
+            <l>And ſhow thoſe ſmiles, all anger diſſipates.</l>
+            <l>Let <hi>Neptune</hi> ſolemnize his conqueſt now;</l>
+            <l>Erect his head, and ſmooth his wrinckled brow.</l>
+            <l>As proud of ſuch a truſt, whoſe precious Lading</l>
+            <l>Not countervail'd, by all the <hi>Indian</hi> Trading.</l>
+            <l>Let curled wares in pleaſant triumph dance,</l>
+            <l>To give us notice of that Ships advance.</l>
+            <l>Whoſe happy fate, ſhall by ſupream decree</l>
+            <l>Engroſſe three Kingdoms wealth containing Thee,</l>
+            <l>May Heav'n her Pilot be, ſo to conduct,</l>
+            <l>That no aſpiring rock, dare once obſtruct.</l>
+            <l>May <hi>Holy Angells</hi> guard her day and night</l>
+            <l>May Winds, and Waters, joyne to ſpeed her flight.</l>
+            <l>Who in their whiſp'ring murmurs, ſeem to ſay,</l>
+            <l>We are the beſt of Subject, We obey</l>
+            <l>Our <hi>Soveraign</hi>'s <hi>Laws.</hi> And tacitely imply</l>
+            <l>A check to us, for paſt diſloyalty.</l>
+            <l>Such may thy paſſage be, as ſhall preſage</l>
+            <l>Thoſe <hi>Halcton dayes,</hi> Thou promiſeſt this Age.</l>
+            <l>May no tempeſtuous ſtorm diſturb thy reſt,</l>
+            <l>Be Seas ſerene as is thy Royall Breſt.</l>
+            <l>May Heav'ns propitious ſeem to favour Us,</l>
+            <l>Who towards thy ſafe return contribute thus</l>
+            <l>Our contrite teares, as Seas, to waft thee o're</l>
+            <l>And bring <hi>Thee</hi> reconciled to our ſhore.</l>
+            <l>Faith climbs the maſt's; Our hopes do ſwell the Sailes,</l>
+            <l>And loyall wiſhes, breath (<hi>Thee,</hi> proſp'rous gales.</l>
+            <l>Till day ſhall come, (our kalendars ſhall boaſt)</l>
+            <l>
+               <hi>KING CHARLES</hi> againe, arrived on our coaſt.</l>
+            <l>More welcome then the Rain to parched Land,</l>
+            <l>Then ſhall the <hi>Scepter</hi> court the <hi>Regall Hand.</hi>
+            </l>
+            <l>Mean time, It is our hopes, and humble ſuit,</l>
+            <l>Of <hi>Royall Bounty,</hi> ſtill totaſt more fruit.</l>
+            <l>That as thy <hi>Kingly word</hi> hath all forgiven,</l>
+            <l>Thy Prayers would get, this pardon ſeal'd in Heav'n.</l>
+            <l>That whereas We, <hi>Thy Happy Reigne,</hi> might miſſe,</l>
+            <l>As jug'd unworthy of ſo great abliſſe;</l>
+            <l>May for thy ſake obtain it. And be ſpar'd,</l>
+            <l>As thoſe, on whome, thy Clemeney declar'd.</l>
+            <l>Whil'ſt own'd a People, Not reduc'd by Sword,</l>
+            <l>But wonne by Favour, and thy Princely Word.</l>
+            <l>Such conqueſt ſhall atchieve the greateſt Glory,</l>
+            <l>And ſhall ſuffize t'immortallize thy Story.</l>
+            <l>Since ſuch a work, no ſpirit coulde compleat</l>
+            <l>But ſuch as Thine. all <hi>Royall, Chriſtian, Great.</hi>
+            </l>
+            <l>Who, but the <hi>Son of Charles,</hi> thy <hi>Glorions Father,</hi>
+            </l>
+            <l>Could cheriſh us, deſerve deſtruction rather?</l>
+            <l>Who, but the Deputy of <hi>Bod Above</hi>
+            </l>
+            <l>Could woo Rebellious Subjects, with ſuch Love,</l>
+            <l>Who but <hi>Thy Selfe,</hi> could do as thou haſt done?</l>
+            <l>So never <hi>Conqerour,</hi> ſuch triumphs wonne.</l>
+            <l>To <hi>God be Glory.</hi> Did thy Heart encline,</l>
+            <l>And for theſe gracious Acts, the honour Thine.</l>
+            <l>Long happy be <hi>Thy Reigne,</hi> ſo as to tell,</l>
+            <l>Succeeding Ages, None could parallell.</l>
+            <l>Theſe are our prayers, This our ſole <hi>Ambition.</hi>
+            </l>
+            <l>To ſee Thee here inthron'd in Rights fruition.</l>
+            <l>Whil'ſt We thy Subjects labour to redeem</l>
+            <l>By future loyalties <hi>Thy</hi> good Eſteem</l>
+            <l>And make conſpicuous to thy <hi>Royall Eye</hi>
+            </l>
+            <l>The major part retain'd integrity.</l>
+            <closer>
+               <signed>M. D.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>H. B.</hi> at the <hi>Gun</hi> in <hi>Ivy-Lane,</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
